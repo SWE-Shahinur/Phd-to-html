@@ -1,0 +1,282 @@
+.home-page{
+    background-color: #854f9b;
+}
+.logo a{
+    line-height: 99px;
+}
+.menu{}
+.menu ul{
+    float: right;
+    margin-bottom: 0;
+}
+.menu ul li{
+    display: inline-block;
+    list-style: none;
+}
+.menu ul li a{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    display: block;
+    font-size: 19px;
+    line-height: 68px;
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+}
+.menu ul li a:hover{
+    color: #37243f;
+    
+}
+
+.heading{
+    padding: 120px 0 200px 0;
+}
+.heading h2{
+    color: white;
+    margin-bottom: 39px;
+    font-size: 35px;
+}
+.heading button{
+    background: rgb(235, 125, 75);
+    padding: 20px 60px;
+    color: white;
+    font-size: 17px;
+    border-radius: 6px;
+    border: none;
+}
+
+/**service start**/
+.service{
+    background:#17c2a4;
+    color: white;
+}
+.service-Text {
+    padding-top: 116px;
+}
+.service-Text h2{
+    font-size: 38px;
+    letter-spacing: 3px;
+}
+.service-Text p{
+    font-size: 18px;
+}
+hr{
+    height: 2px;
+    width: 86px;
+    background-color: rgb(134, 131, 131);
+}
+
+.service-icon{
+    text-align: center;
+    margin-top: 51px;
+}
+.service-icon img{}
+.service-icon h2{
+    font-size: 26px;
+    margin: 49px 0 23px 0;
+}
+.service-icon p{
+    margin-bottom: 100px;
+}
+
+
+/**team***/
+.team{
+    color: rgb(8, 8, 44);
+    background: #e7f2f8;
+}
+.team-text{margin-top: 116px;}
+.team-text h1{
+    letter-spacing: 2px;
+}
+.team-text p{
+    font-size: 18px;
+    margin-bottom: 73px;
+}
+
+.team-icon{
+    text-align: center;
+    margin-bottom: 100px;;
+}
+.team-icon img{
+    border-radius: 50%;
+}
+.team-icon h2{
+    font-size: 23px;
+    margin-top: 34px;
+}
+.team-icon h3{
+    font-size: 14px;
+    color: #08eac1;
+    margin-bottom: 24px;
+}
+.team-icon p{
+    margin-bottom: 21px;
+}
+.team-icon a{
+    padding: 3px;
+}
+
+
+/**skill part**/
+.skill{
+    color: rgb(8, 8, 44);
+    background: #ffffff;
+    
+}
+.skill-text{
+    margin-top: 116px;
+}
+.skill-text h1{
+    letter-spacing: 2px;
+}
+.skill-text p{
+    font-size: 18px;
+    margin-bottom: 73px;
+}
+.bottom{
+    margin-bottom: 100px;
+}
+
+
+/*protfooli*/
+
+.protfollo{
+    color: rgb(8, 8, 44);
+    background: #ffdc98;
+    
+}
+.protfollo-text{
+    margin-top: 116px;
+}
+.protfollo-text h2{
+    letter-spacing: 2px;
+}
+.protfollo-text p{
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.protfollo-text ul{
+    list-style: none;
+}
+.protfollo-text ul li{
+    display: inline-block;
+}
+.protfollo-text ul li a{
+    display: inline-block;
+    padding: 5px 18px;
+    background: #ebc884;
+    color: black;
+    margin-left: 11px;
+}
+.protfollo-text ul li:first-child a{
+    background-color: white;
+} 
+
+.protfollo-icon{
+    
+}
+.protfollo-icon img{
+    margin-top: 45px;
+}
+.protfollo-icon p{
+    margin-top: 29px;
+    text-align: center;
+    font-size: 17px;
+}
+.protfollo-button{
+}
+.protfollo-button button{
+    background: #17c1a3;
+    color: white;
+    border: none;
+    padding: 17px 40px;
+    font-size: 17px;
+    margin: 32px 0 100px 0;
+    
+}
+
+/*about*/
+.about{
+    color:white;
+    background: #d64580;
+    
+}
+.about-text{
+    margin-top: 116px;
+}
+.about-text h2{
+    letter-spacing: 2px;
+}
+.about-text p{
+    font-size: 19px;
+    margin-bottom: 98px;
+}
+
+
+
+.about-icon img{
+    border-radius: 50%;
+}
+.about-icon p{}
+.about-icon h3{}
+.about-icon h6{
+    color: #751609;
+    margin-bottom: 100px;
+}
+
+/*contact*/
+.contact{
+    color:white;
+    background: #3c5399;
+    
+}
+.contact-text{
+    margin-top: 116px;
+}
+.contact-text h2{
+    letter-spacing: 2px;
+}
+.contact-text p{
+    font-size: 19px;
+    margin-bottom: 98px;
+}
+
+.input-text input{
+    padding: 25px;
+    background: #263971;
+}
+.textmasage textarea{
+    padding: 12px;
+    background: #263971;
+}
+.input-text input::-webkit-input-placeholder{
+    color:white;
+}
+.textmasage textarea::-webkit-input-placeholder{
+    color:white;
+}
+.textmasage button {
+    background: #30b9e7;
+    border: none;
+    padding: 13px 64px;
+    color: white;
+    font-size: 17px;
+    border-radius: 5px;
+    margin: 25px 0 100px 0;
+}
+
+/**foter**/
+.foter{
+    background: #344b8f;
+}
+.foter a{
+    color: white;
+    display: inline-block;
+    padding: 30px;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+
